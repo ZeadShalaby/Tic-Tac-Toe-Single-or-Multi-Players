@@ -3,12 +3,11 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Tic-Tac-Toe-Single-or-Multi-Players">
-    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/c5J2feQ.png" alt="Logo" width="150" height="150">
   </a>
   
 
 <h3 align="center">Tic_Tac_Toe Single OR Multi_Players</h3>
-
   <p align="center">
     Project With Java
     <br/>
