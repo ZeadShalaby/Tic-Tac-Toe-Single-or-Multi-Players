@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Tic-Tac-Toe-Single-or-Multi-Players">
-    <img src="https://i.imgur.com/c5J2feQ.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/c5J2feQ.png" alt="Logo" width="250" height="210">
   </a>
   
 
@@ -26,7 +26,7 @@
 ## About The Project
 
 
- <img src="https://i.imgur.com/TVFzCiG.png" alt="Logo" width="900" height="500">
+ <img src="https://i.imgur.com/Ti6pxet.png" alt="Logo" width="900" height="500">
  <br/>
 <p >
  <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
