@@ -31,11 +31,11 @@
  <br/>
 
 <p >
- <img src="https://i.imgur.com/TXRiDFb.png" alt="project(Coise-User)" width="150" height="150">
- <img src="https://i.imgur.com/UzQASsh.png" alt="project(Admin)" width="150" height="150">
- <img src="https://i.imgur.com/A17YZKB.png" alt="project(User)" width="150" height="150">
- <img src="https://i.imgur.com/FNFWqcY.png" alt="project(Login-User)" width="150" height="150">
- <img src="https://i.imgur.com/xiceqRX.png" alt="project(Login-User)" width="150" height="150">
+ <img src="https://i.imgur.com/TXRiDFb.png" alt="project(Coise-User)" width="160" height="150">
+ <img src="https://i.imgur.com/UzQASsh.png" alt="project(Admin)" width="160" height="150">
+ <img src="https://i.imgur.com/A17YZKB.png" alt="project(User)" width="160" height="150">
+ <img src="https://i.imgur.com/FNFWqcY.png" alt="project(Login-User)" width="160" height="150">
+ <img src="https://i.imgur.com/xiceqRX.png" alt="project(Login-User)" width="160" height="150">
 
 </p>
 
