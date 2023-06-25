@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Tic-Tac-Toe-Single-or-Multi-Players">
-    <img src="https://i.imgur.com/k91MgZu.png" alt="Logo" width="200" height="150">
+    <img src="https://i.imgur.com/k91MgZu.png" alt="Logo" width="230" height="170">
   </a>
   
 
@@ -28,11 +28,15 @@
 
  <img src="https://i.imgur.com/TVFzCiG.png" alt="Logo" width="900" height="500">
  <br/>
+ <br/>
+
 <p >
- <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
- <img src="https://i.imgur.com/6Xxnqhv.png" alt="project(Admin)" width="200" height="150">
- <img src="https://i.imgur.com/JE3vHEI.png" alt="project(User)" width="200" height="150">
- <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
+ <img src="https://i.imgur.com/TXRiDFb.png" alt="project(Coise-User)" width="150" height="150">
+ <img src="https://i.imgur.com/UzQASsh.png" alt="project(Admin)" width="150" height="150">
+ <img src="https://i.imgur.com/A17YZKB.png" alt="project(User)" width="150" height="150">
+ <img src="https://i.imgur.com/FNFWqcY.png" alt="project(Login-User)" width="150" height="150">
+ <img src="https://i.imgur.com/xiceqRX.png" alt="project(Login-User)" width="150" height="150">
+
 </p>
 
 Britannica Dictionary definition of TIC–TAC–TOE. [noncount] US. : a game in which one player draws Xs and another player draws Os inside a set of nine squares and each player tries to be the first to fill a row of squares with either Xs or Os. — called also (British) noughts and crosses.
